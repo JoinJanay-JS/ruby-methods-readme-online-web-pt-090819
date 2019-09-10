@@ -2,5 +2,6 @@ def greeting
   puts "Hello World"
 end
 
-$ ruby greeting.ruby
-$ 
+greeting
+
+ 
